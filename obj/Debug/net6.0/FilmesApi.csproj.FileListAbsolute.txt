@@ -39,3 +39,7 @@ C:\workspace\FilmesApi\obj\Debug\net6.0\refint\FilmesApi.dll
 C:\workspace\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
 C:\workspace\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 C:\workspace\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+C:\workspace\FilmesApi\bin\Debug\net6.0\AutoMapper.dll
+C:\workspace\FilmesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\workspace\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+C:\workspace\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
